@@ -1,4 +1,4 @@
-package com.jeje.book.springboot;
+package com.jeje.book.springboot.web;
 
 
 import org.junit.Test;
